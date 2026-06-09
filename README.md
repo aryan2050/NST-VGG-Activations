@@ -88,5 +88,3 @@ The `code.ipynb` notebook includes extensive `matplotlib` routines to plot the t
 This project is open-source and available under standard MIT guidelines.
 
 ```
-
-```
