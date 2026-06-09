@@ -63,8 +63,8 @@ pip install -r requirements.txt
 3. **Run the Notebook:**
 Launch Jupyter to explore the code and visualizations interactively:
 ```bash
-jupyter notebook code.ipynb
-
+cd NST_Code
+python app.py
 ```
 
 
