@@ -82,9 +82,3 @@ The `code.ipynb` notebook includes extensive `matplotlib` routines to plot the t
 * **Torchvision:** Pre-trained VGG-19 weights and image transformations.
 * **Matplotlib:** Plotting feature maps and generation progress.
 * **NumPy:** Matrix manipulations.
-
-## 📄 License
-
-This project is open-source and available under standard MIT guidelines.
-
-```
